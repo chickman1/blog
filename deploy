@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+hugo && scp -r public carrie@192.241.206.218:/home/carrie/blog
